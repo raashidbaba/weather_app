@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
             getData(binding.etPlace.text.toString(), "1e77f60a847385bd30a4b2fcc64b93a9")
             /* val myText = binding.etCity.text
              binding.tvTemp.text = myText*/
-            // Toast.makeText(this,"clicked",Toast.LENGTH_SHORT).show()
+             Toast.makeText(this,"clicked",Toast.LENGTH_SHORT).show()
         }
 
     }
